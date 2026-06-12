@@ -30,11 +30,11 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=VishalBhagat01\&style=for-the-badge\&color=6A0DAD)
+![Profile Views](https://komarev.com/ghpvc/?username=VishalBhagat01&style=for-the-badge&color=6A0DAD)
 
-![](https://img.shields.io/github/followers/VishalBhagat01?style=for-the-badge\&color=7B2CBF)
+![GitHub Followers](https://img.shields.io/github/followers/VishalBhagat01?label=Followers&style=for-the-badge)
 
-![](https://img.shields.io/github/stars/VishalBhagat01?affiliations=OWNER\&style=for-the-badge\&color=4361EE)
+![GitHub User's stars](https://img.shields.io/github/stars/VishalBhagat01?style=social)
 
 </div>
 
